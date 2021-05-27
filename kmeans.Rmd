@@ -256,4 +256,5 @@ The plot above orders the rows of the matrix/image so that all of the rows in th
 
 * [Elements of statistical learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
+OK OK THATS FINE 
 
