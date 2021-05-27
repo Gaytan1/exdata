@@ -258,3 +258,5 @@ The plot above orders the rows of the matrix/image so that all of the rows in th
 
 OK OK THATS FINE 
 
+understood very well from github to git 
+
